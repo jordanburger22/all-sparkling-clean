@@ -10,7 +10,7 @@ function Header() {
             <div className='header-btns'>
                 <Link to='/'><Button>Home</Button></Link>
                 <Link to='/schedule'><Button>Schedule</Button></Link>
-                <Link to='/about'><Button>About</Button></Link>
+                <Link to='/pricing'><Button>About</Button></Link>
             </div>
         </header>
     );
